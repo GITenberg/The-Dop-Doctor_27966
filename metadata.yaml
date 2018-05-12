@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33039
     wikipedia: http://en.wikipedia.org/wiki/Clotilde_Graves
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27966#The-Dop-Doctor
 gutenberg_issued: '2009-02-02'
 gutenberg_type: Text
 identifiers:
